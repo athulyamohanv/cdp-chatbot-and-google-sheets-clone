@@ -1,0 +1,20 @@
+https://nodejs.org/en
+mkdir google-sheets-clone
+cd google-sheets-clone
+npx create-react-app front-end
+cd front-end
+npm install react-data-grid bootstrap
+ npm start
+mkdir backend
+cd backend
+npm init -y
+npm install express body-parser cors
+ node server.js
+2nd
+ pip install flask langchain openai requests
+python server.py
+ npx create-react-app chatbot-frontend
+cd chatbot-frontend
+npm install axios
+ npm start
+ GitHub repository as per the requirements
